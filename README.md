@@ -11,17 +11,9 @@
 
 - 🌱 Learning **HTML, CSS, JavaScript and React**
 
-- 👯 I’m looking to collaborate with [other learners](https://github.com/ZoCodes/SheCodesBootcamp)
-
-<!-- - 📝 I occasionally write articles on [https://zocodes.hashnode.dev/](https://zocodes.hashnode.dev/) -->
-
 - 📫 How to reach me **@davquipe**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/davquipe/](https://www.linkedin.com/in/davquipe/)
-
-- ⚡ Fun fact **I am a black belt in Karate**
-
-- ⚡ Fun fact **I opened the UKs first Cereal Cafe** 🥣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
