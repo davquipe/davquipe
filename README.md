@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm David 👋</h1>
-<h2 align="center">Frontend Developer | Tech Enthusiast | Lifelong Learner</h2>
+<h2 align="center">Frontend Developer | Lifelong Learner</h2>
 <h3 align="center">From Perú 🇵🇪 | 3+ Years of Professional Experience</h3>
 
 <p align="center">
